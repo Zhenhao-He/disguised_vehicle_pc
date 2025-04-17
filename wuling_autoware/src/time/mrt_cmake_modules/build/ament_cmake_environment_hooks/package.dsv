@@ -1,0 +1,4 @@
+source;share/mrt_cmake_modules/local_setup.bash
+source;share/mrt_cmake_modules/local_setup.dsv
+source;share/mrt_cmake_modules/local_setup.sh
+source;share/mrt_cmake_modules/local_setup.zsh

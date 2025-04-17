@@ -1,0 +1,7 @@
+/rviz/build/*
+/rviz/install/*
+/rviz/log/*
+/wuling_autoware/build/*
+/wuling_autoware/install/*
+/wuling_autoware/log/*
+/wuling_autoware/src/perception/parkingslot_detection/parkingslot_detection/ckpt/*
